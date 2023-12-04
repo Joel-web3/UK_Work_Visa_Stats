@@ -1,4 +1,4 @@
-# UK Work Visa Stats
+# UK's Work Visa Landscape
 
 ![](https://github.com/Joel-web3/UK_Work_Visa_Stats/blob/main/visa-application-composition-with-australian-flag.jpg)
 
